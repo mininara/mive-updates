@@ -1,0 +1,17 @@
+{
+  "apps": {
+    "com.alt.calendar": {
+      "versionCode": 26060209,
+      "versionName": "1.0.26060209",
+      "apkUrl": "https://raw.githubusercontent.com/mininara/mive-updates/main/MiveCalendar/mivecalendar_26060209.apk",
+      "sha256": "b5899e178b2e388145f39bf40f942cfd7a509d7803a295256e8f815c66c0a906",
+      "minSupportedVersion": 0,
+      "rolloutPercent": 100,
+      "mandatory": false,
+      "releaseNotes": "자체 업데이트 기능을 적용한 검증용 빌드입니다."
+    }
+  },
+  "flags": {
+    "mivecalendar.updaterEnabled": true
+  }
+}
